@@ -1,9 +1,9 @@
 [submodule "python"]
 	path = python
-	url = git@github.com:alevalv/retipy-python.git
+	url = git@github.com:HernanArango/retipy-rest.git
 [submodule "react"]
 	path = react
-	url = git@github.com:alevalv/retipy-react.git
+	url = git@github.com:HernanArango/retipy-react.git
 [submodule "rest"]
 	path = rest
-	url = git@github.com:alevalv/retipy-rest.git
+	url = git@github.com:HernanArango/retipy-rest.git
