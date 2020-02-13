@@ -9,7 +9,7 @@ services:
   backend:
     build:
       context: rest/
-      dockerfile: Dockerfile
+      dockerfile: docker/Dockerfile
       args:
         backendUrl: http://python:5000/retipy
     ports:
